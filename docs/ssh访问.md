@@ -8,9 +8,9 @@
 
 ## SSH登录
 1.创建容器实例，在操作栏中点击访问凭证。  
-![alt text](../images/ssh03.png)
+![alt text](../images/ssh03.png)  
 2.在窗口中复制SSH连接命令。  
-![alt text](../images/ssh04.jpeg)
+![alt text](../images/ssh04.jpeg)  
 3.打开本地主机的终端。  
 - Windows用户可以使用系统自带的Powershell/CMD登录。  
 - Mac用户可以使用系统自带的Terminal完成SSH登录。  
