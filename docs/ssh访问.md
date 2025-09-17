@@ -8,15 +8,15 @@
 
 ## SSH登录
 1.创建容器实例，在操作栏中点击访问凭证。
-![alt text](image\ssh03.png)
+![alt text](../images/ssh03.png)
 2.在窗口中复制SSH连接命令。
-![alt text](image\ssh04.jpeg)
+![alt text](../images/ssh04.jpeg)
 3.打开本地主机的终端。  
 - Windows用户可以使用系统自带的Powershell/CMD登录。  
 - Mac用户可以使用系统自带的Terminal完成SSH登录。  
 
 4.粘贴 SSH 命令和密码，即可访问容器实例。
-![alt text](image\ssh05.png)
+![alt text](../images/ssh05.png)
 
 ## 免密登录
 ### 1.生成 SSH 密钥对
@@ -41,10 +41,10 @@ cat id_rsa.pub
 ### 2.注入 SSH 密钥
 1.登录控制台，进入 产品中心 -> 计算 -> 云容器实例页面。  
 2.选择Tab页中的 SSH 密钥，点击 +新建SSH。
-![alt text](image\ssh01.png)
+![alt text](../images/ssh01.png)
 
 3.在新建 SSH 密钥窗口中，配置SSH密钥名称、描述、公钥，点击确定。
-![alt text](image\ssh02.jpeg)
+![alt text](../images/ssh02.jpeg)
 
 |  参数   | 说明  |
 |  ----  | ----  |
