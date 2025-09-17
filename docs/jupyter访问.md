@@ -27,8 +27,8 @@
 
 ### 使用Notebook
 在工作区域，点击 Notebook 可打开窗口。
-![alt text](../images/jupyter06.png)
+![alt text](../images/jupyter06.png){#pic_left}
 
 ### 访问终端
 在工作区域，点击 Other -> Terminal 可打开一个终端。
-![alt text](../images/jupyter05.jpeg)
+![alt text](../images/jupyter05.jpeg){#pic_left}
