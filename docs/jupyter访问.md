@@ -19,7 +19,7 @@
 
 ### 文件管理
 1.在文件浏览区可进行文件管理。
-![alt text](image\jupyter03.jpeg)
+![alt text](.\.\image\jupyter03.jpeg)
 
 2.点击文件浏览区中的相关标识可创建文件夹、上传文件。
 
